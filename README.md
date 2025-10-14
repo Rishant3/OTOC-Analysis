@@ -1,4 +1,6 @@
 Quantum Chaos Simulation: OTOC for the Pöschl-Teller Potential
+
+
 This project explores quantum chaos by simulating the Out-of-Time-Ordered Correlator (OTOC) for the Pöschl-Teller potential, a special exactly solvable system in quantum mechanics. The OTOC is a key indicator of chaotic behavior and scrambling of information in quantum systems.
 
 The simulation is implemented in a Jupyter Notebook using standard Python scientific libraries like numpy, scipy, and matplotlib.
